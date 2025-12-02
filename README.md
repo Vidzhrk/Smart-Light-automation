@@ -4,7 +4,7 @@ This project automatically controls a light based on human presence using a PIR 
 
 ---
 
-## 🔧 Components Used
+## Components Used
 - ESP32 Development Board
 - PIR Motion Sensor (HC-SR501)
 - Relay Module (5V/3.3V compatible)
@@ -14,7 +14,7 @@ This project automatically controls a light based on human presence using a PIR 
 
 ---
 
-## 🧠 Working Principle
+## Working Principle
 1. PIR detects human motion using body heat
 2. ESP32 receives digital motion signal
 3. Relay switches ON the room light
