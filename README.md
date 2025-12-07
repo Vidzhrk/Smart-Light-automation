@@ -22,3 +22,9 @@ This project automatically controls a light based on human presence using a PIR 
    - Timer starts
    - After 10 seconds → Light turns OFF
 5. Ensures energy-efficient smart lighting
+---
+## Live Simulation
+
+Check out the Smart-Lights simulation here →  
+[Run the Smart Lights Simulation on Wokwi](https://wokwi.com/projects/449251203166854145)
+[![Smart Lights Simulation](https://thumbs.wokwi.com/projects/449251203166854145/thumbnail.jpg)](https://wokwi.com/projects/449251203166854145)
